@@ -1,5 +1,5 @@
 {
-  "name": "hello-world-npm",
+  "name": "@hf/hello-world-npm",
   "version": "1.1.0",
   "description": "Hello World NPM example",
   "main": "lib/index.js",
